@@ -1,0 +1,18 @@
+[submodule "external_libraries/assimp"]
+	path = external_libraries/assimp
+	url = git@github.com:assimp/assimp.git
+[submodule "external_libraries/glad_opengl_3.3_core"]
+	path = external_libraries/glad_opengl_3.3_core
+	url = git@github.com:opengl-toolbox/glad_opengl_3.3_core.git
+[submodule "external_libraries/glfw"]
+	path = external_libraries/glfw
+	url = git@github.com:glfw/glfw.git
+[submodule "external_libraries/glm"]
+	path = external_libraries/glm
+	url = git@github.com:g-truc/glm.git
+[submodule "external_libraries/stb"]
+	path = external_libraries/stb
+	url = git@github.com:nothings/stb.git
+[submodule "external_libraries/imgui"]
+	path = external_libraries/imgui
+	url = git@github.com:ocornut/imgui.git
