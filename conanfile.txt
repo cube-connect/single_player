@@ -9,3 +9,6 @@ imgui/cci.20230105+1.89.2.docking
 [generators]
 CMakeDeps
 CMakeToolchain
+
+[layout]
+cmake_layout
